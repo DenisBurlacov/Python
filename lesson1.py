@@ -17,6 +17,3 @@ age = int(input("Enter your age birth year"))
 current_year = 2022 - age
 message = "Hello !!! "
 print(f"{message} {user_name} Your age is :  {current_year}")
-
-
-
