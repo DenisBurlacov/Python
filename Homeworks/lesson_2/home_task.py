@@ -26,6 +26,7 @@
 #     print('Високосный')
 # else:
 #     print('Невисокосный')
+<<<<<<< HEAD
 # text = input("Enter your text: ")
 # num = int(input('Enter the number of repetitions: '))
 # for i in range(1, num+1):
@@ -41,3 +42,9 @@ def cost_of_work(working_hours, prise_of_hours):
 
 
 print("You yerned " + str(cost_of_work(working_hours, prise_of_hour)) + " " + "today !")
+=======
+text = input("Enter your text: ")
+num = int(input('Enter the number of repetitions: '))
+for i in range(1, num+1):
+    print(i, text)
+>>>>>>> origin/main
